@@ -16,5 +16,8 @@
     "url": "https://github.com/scatkit/webflyx/issues"
   },
   "homepage": "https://github.com/scatkit/webflyx#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@triton-one/yellowstone-grpc": "^4.0.2"
+  }
 }
